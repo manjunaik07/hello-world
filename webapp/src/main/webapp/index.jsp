@@ -5,7 +5,7 @@
     </head>
   <title> this is my webpage </title>
     <body>
-      <baground-colour=blue>
+      <body style="background-colour:blue;">
     <h1>regards </h1>
     <br>
     <h2> hi good morning </h2>
