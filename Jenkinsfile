@@ -10,11 +10,6 @@ pipeline {
                 echo 'Hello World'
             }
         }
-        stage('Hello') {
-            steps {
-                echo 'Hello World'
-            }
-        }
           stage('build') {
             steps {
                 git 'https://github.com/manjunaik07/hello-world.git'
